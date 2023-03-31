@@ -1,10 +1,12 @@
 /*********************************************************************************
- *  WEB422 – Assignment 5
- *  I declare that this assignment is my own work in accordance with Seneca Academic Policy.
- *  No part of this assignment has been copied manually or electronically from any other source
- *  (including web sites) or distributed to other students.
+ *  WEB422 – Assignment 06
+ *  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part of this
+ *  assignment has been copied manually or electronically from any other source (including web sites) or
+ *  distributed to other students.
  *
- *  Name: Yujin Kim   Student ID: 117826214   Date: Mar 19, 2023
+ *  Name: Yujin Kim   Student ID: 117826214   Date: Mar 31, 2023
+ *
+ *  Vercel App (Deployed) Link: https://web422-a6-j5lcidjxp-ykim7.vercel.app/
  *
  ********************************************************************************/
 
